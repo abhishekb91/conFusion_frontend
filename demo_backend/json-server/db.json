@@ -1,0 +1,234 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Fast Chicken Pot Pie",
+      "image": "images/chicken_pot_pie.jpg",
+      "category": "mains",
+      "label": "Hot",
+      "price": "14.99",
+      "featured": "true",
+      "description": "The only not-last-minute thing about this recipe? Thawing the puff pastry. Make sure to put it in the refrigerator the night before making this dish.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Frittata",
+      "image": "images/mushroom-leek-and-fontina-frittata.jpg",
+      "category": "appetizer",
+      "label": "",
+      "price": "15.99",
+      "featured": "false",
+      "description": "Frittatas are excellent served warm or at room temperature, which means that this meatless main is a perfect do-ahead dish.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mac and Cheese",
+      "image": "images/MAC-AND-CHEESE.jpg",
+      "category": "appetizer",
+      "label": "New",
+      "price": "10.99",
+      "featured": "false",
+      "description": "Don’t be alarmed if the sauce looks thin at first: It will continue to thicken as it bakes with the noodles.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Test comment",
+          "author": "Abhishek",
+          "date": "2018-08-28T03:43:47.080Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Hello world",
+          "author": "Abhishek",
+          "date": "2018-08-28T03:44:40.013Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lasagna Bolognese",
+      "image": "images/lasagna-bolognese.jpg",
+      "category": "dessert",
+      "label": "",
+      "price": "12.99",
+      "featured": "false",
+      "description": "This homemade version of the Italian classic tastes as though it's been perfected over generations.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        }
+      ]
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Weekend Grand Buffet",
+      "image": "images/buffet.jpg",
+      "label": "New",
+      "price": "19.99",
+      "featured": "true",
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, enticing appetizers, entrees and five choicest desserts."
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Peter Pan",
+      "image": "images/alberto.png",
+      "designation": "Chief Epicurious Officer",
+      "abbr": "CEO",
+      "featured": "false",
+      "description": "Our CEO, Peter, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
+    },
+    {
+      "id": 1,
+      "name": "Dhanasekaran Witherspoon",
+      "image": "images/alberto.png",
+      "designation": "Chief Food Officer",
+      "abbr": "CFO",
+      "featured": "false",
+      "description": "Our CFO, Danny, as he is affectionately referred to by his colleagues, comes from a long established family tradition in farming and produce. His experiences growing up on a farm in the Australian outback gave him great appreciation for varieties of food sources. As he puts it in his own words, Everything that runs, wins, and everything that stays, pays!"
+    },
+    {
+      "id": 2,
+      "name": "Agumbe Tang",
+      "image": "images/alberto.png",
+      "designation": "Chief Taste Officer",
+      "abbr": "CTO",
+      "featured": "false",
+      "description": "Blessed with the most discerning gustatory sense, Agumbe, our CFO, personally ensures that every dish that we serve meets his exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. He lives by his motto, You click only if you survive my lick."
+    },
+    {
+      "id": 3,
+      "name": "Alberto Somayya",
+      "image": "images/alberto.png",
+      "designation": "Executive Chef",
+      "abbr": "EC",
+      "featured": "true",
+      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world."
+    }
+  ],
+  "feedback": []
+}
